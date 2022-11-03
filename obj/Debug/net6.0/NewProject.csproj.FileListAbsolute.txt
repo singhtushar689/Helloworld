@@ -3,3 +3,13 @@ C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\NewProject.GeneratedMSBu
 C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\NewProject.AssemblyInfoInputs.cache
 C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\NewProject.AssemblyInfo.cs
 C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\NewProject\bin\Debug\net6.0\NewProject.exe
+C:\Users\singh\source\repos\NewProject\bin\Debug\net6.0\NewProject.deps.json
+C:\Users\singh\source\repos\NewProject\bin\Debug\net6.0\NewProject.runtimeconfig.json
+C:\Users\singh\source\repos\NewProject\bin\Debug\net6.0\NewProject.dll
+C:\Users\singh\source\repos\NewProject\bin\Debug\net6.0\NewProject.pdb
+C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\NewProject.dll
+C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\refint\NewProject.dll
+C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\NewProject.pdb
+C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\NewProject.genruntimeconfig.cache
+C:\Users\singh\source\repos\NewProject\obj\Debug\net6.0\ref\NewProject.dll

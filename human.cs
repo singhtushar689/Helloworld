@@ -17,8 +17,8 @@ namespace NewProject
 
         }
         public void bodytype()
-        { 
-           Console.WriteLine("There are various types of bodytypes")        
+        {
+            Console.WriteLine("There are various types of bodytypes");      
         }
     }
         
